@@ -7,4 +7,4 @@ Simple quiz game app made with vanilla ___JS___, ___HTML___ and ___CSS___
 * Sound effects ✔
 * Timer to include sense of intesity ✔
 
-👉 __Live Demo__: https://the-quiz-game.netlify.app
+👉 __Live Demo__: https://the-quiz-game.netlify.app 👈
